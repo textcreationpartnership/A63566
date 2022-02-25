@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true narrative of the confession and execution of the three prisoners at Kingstone upon Thames, in the county of Surrie. On Monday the 22th of March, 1679 With the account of their particular facts for which they suffered, as more particularly the last confession and exhortation of Margaret Clark, who fired her masters house in Southwark. And James Christian for killing the waterman, John Selby, John Seamor alias Herring, three notorious highway men. With the names of the places where they committed the facts, for which they now suffer; and many other remarkable circumstances.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63566</idno>
+            <idno type="STC">Wing T2781AA</idno>
+            <idno type="STC">ESTC R213050</idno>
+            <idno type="EEBO-CITATION">99825569</idno>
+            <idno type="PROQUEST">99825569</idno>
+            <idno type="VID">29955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29955)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2100:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true narrative of the confession and execution of the three prisoners at Kingstone upon Thames, in the county of Surrie. On Monday the 22th of March, 1679 With the account of their particular facts for which they suffered, as more particularly the last confession and exhortation of Margaret Clark, who fired her masters house in Southwark. And James Christian for killing the waterman, John Selby, John Seamor alias Herring, three notorious highway men. With the names of the places where they committed the facts, for which they now suffer; and many other remarkable circumstances.</title>
+                  <author>England and Wales. Assizes (Southwark)</author>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>The year in title is given according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clark, Margaret, d. 1680.</term>
+               <term>Arson --  England --  London --  Southwark --  Early works to 1800.</term>
+               <term>Trails (Murder) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:29955:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>THE TRUE NARRATIVE OF THE CONFESSION <hi>AND</hi> EXECUTION Of the three Priſoners AT <hi>Kingſtone upon Thames.</hi> IN THE County of Surrie. On <date>
+                  <hi>Monday</hi> the 22th of <hi>March,</hi> 1679.</date>
+            </head>
+            <head type="sub">With the account of their particular Facts for which they ſuffered, as more particularly the laſt Confeſſion and Exhortation of <hi>Margaret Clark,</hi> who fired her Maſters Houſe in <hi>SO<g ref="char:V">Ʋ</g>THWARK.</hi> And <hi>James Chriſtian</hi> for killing the Waterman, <hi>John S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lby, John Seamor</hi> alias <hi>Herring,</hi> three, notorious High<g ref="char:EOLhyphen"/>way men. With the names of the places where they com<g ref="char:EOLhyphen"/>mitted the Facts for which they now ſuffer; and many other remarkable Circumſtances.</head>
+            <p>HOw dreadful is Juſtice in it ſelf, when once offended, yet ſuch are the depraved faculties of erring Mortals, that they by their notorious Crimes provoke and dare it, hurry Ruine on their heads, and by untimely Deaths diſmiſs them from the World, e're half their courſe is run or in the Bloom of
+<pb n="2" facs="tcp:29955:2"/>
+               <!-- PDF PAGE 14 -->all their days, as is moſt firmly teſtifyed, by the diſmal ends theſe diſaſterous Miſcreants that haue juſtly ſuffered for their hei<g ref="char:EOLhyphen"/>nous Offences, receiving Sentance of Corporal Death at the Aſſizes holden at <hi>Kingſton</hi> upon Thames for the County of <hi>Sur<g ref="char:EOLhyphen"/>ry</hi> on the 16th of this Inſtant, and Executed at the Gallows of the ſaid Town accordingly on Monday the 22th of this inſtant <hi>March</hi> 1679.</p>
+            <p>The firſt of which in order, was <hi>Margaret Clark,</hi> who was Ar<g ref="char:EOLhyphen"/>raigned, and found Guilty of that notorious and Fellonious Crime of Firing, <hi>Peter Dellanoys</hi> houſe, late her Maſters the ſaid houſe being ſcituate in <hi>Mountague Cloſe</hi> in the Pariſh of St. <hi>Mary Overies Southwark;</hi> the proof againſt her was upon her own Confeſſion, that three Gentlemen, ſuppoſed to be Agents in the Popiſh Firing-Plot, ſeeing her ſtand at her Maſters Dore with a Child in her Arms, came up to her, and demanded if ſhe lived there, to which ſhe anſwered ſhe did, upon which Aſſeveration, they deſired her to go and drink with them, to which ſhe con<g ref="char:EOLhyphen"/>ſented, but no ſooner, being in the Victualling Houſe but they fell to treating with her about firing her Maſters houſe, and in fine for two thouſand pounds to be payed her at the <hi>Fleece Ta<g ref="char:EOLhyphen"/>vern</hi> in <hi>Holbourn,</hi> when the wicked enterprize had taken effect, ſhe agrees with them, this being on the firſt of <hi>January,</hi> on the Sunday following ſhe with (as ſhe affirmed) the Aſſiſtance of one <hi>Satterwait,</hi> fired it in three places, which had it not been timely prevented by the diligent care of Neighbours, had doubtleſs done much harm. After her Condemnation, ſhe much bewail<g ref="char:EOLhyphen"/>ed her ſo raſhly being lead into ſo vile and dangerous a wicknd<g ref="char:EOLhyphen"/>neſs upon the only promiſe of a Stranger whom ſhe knew not where to find, deſiring forgiueneſs for her grievous Crimes, and vile intentions, much lamenting her untimely End; bathing her ſelf in Tears, confeſſing to all that came to ſee her, in Priſon, that the Devil had deluded her and drawn her into this ſnare, de<g ref="char:EOLhyphen"/>ſiring all to take warning by her downfall and inevitable Ruine, and continuing ſo penitent to the laſt, that notwithſtanding the notorious Crime for which ſhe was to ſuffer, ſhe drew a general compaſſion from all or moſt of the Spectators, and ſo concluded her Life in a Flood of Tears.</p>
+            <p>The next in this dreadful Sceene of woe, was <hi>James Chriſtian</hi> who was tried and condemned for barbarouſly murthering one <hi>Robert Burrel</hi> a Waterman near <hi>Rederiff</hi> Stairs; the Circumſtan<g ref="char:EOLhyphen"/>ces ſworn to by the Evidence againſt him were as followeth; the Priſoner having formerly had a Quarrel with the deceaſed about
+<pb n="3" facs="tcp:29955:2"/>
+               <!-- PDF PAGE 14 -->taking a Woman out of his Boat, and had upon the ſame, grie<g ref="char:EOLhyphen"/>vouſly beat and wounded him before thiis laſt aſſault of which the deceaſed not only complained, but alſo kept his Bed for ſe<g ref="char:EOLhyphen"/>veral days after, he being abroad the Priſoner again threatned him he would do his buſineſs for him; ſo that taking the opportu<g ref="char:EOLhyphen"/>nity of his lying to watch the Boats one night, he Aſſaulted him, and with a Staff firſt ſtunned him, and after he had recovered, and endeavouring to fly, thereby to eſcape his Rage, he catching hold of him, not only prevented him, but with the Rope and Hook that faſtens the Boat, he ſtruck him ſo many mortal blows, that within ſeven weeks he dyed of the ſame, affirming to the laſt, that <hi>Chriſtian</hi> had been the cauſe of his death; upon which Evidence after he was Conuictid of wilful Murther he received Senttnce, the which was this day put in Execution, after which Sentance he began to have a ſenſible feeling how much he ſtood in need of Eternal Life, ſeeing there remained no hopes for the prologation of his mortal one here on Earth, and that there were but a few moments between him and Eternity; ſo that he began to grow in deteſtation with his paſſionate raſhneſs that had cauſed him to commit the horrideſt of Crimes, for Murther doubt<g ref="char:EOLhyphen"/>leſs is ſo pondrous a weight unto the Souls of thoſe that Bath their cruel hands blood, that it compels them to relent, and ſtrive to waſh away thoſe Crimſon ſtains with ſighs and Tears, and ſo was it to be ſeen in this to be deplored-Wretch, who ſtrove to the utmoſt of his power to admoniſh and deſire all that were pre<g ref="char:EOLhyphen"/>ſent that for Heauens ſake they would be cautious to give way to Rage, leſt that overpowring their Reaſon, ſhould cauſe them to ſhed Innocent Blood, declaring that he never deſigned the death of him whom he murthered, but that he knew he had in his An<g ref="char:EOLhyphen"/>ger threatned to deſtroy him; the which proved too fatally true, and ſo continued, but a little before Execution he received a Gra<g ref="char:EOLhyphen"/>cious Reprieve.</p>
+            <p>The next was that notorious Highway Man, <hi>viz. John Seamor</hi> alias <hi>Herring,</hi> famous for Robbing of the Speaker of the Parlia<g ref="char:EOLhyphen"/>ment houſe, and ever ſince uſurping of his Name, he had no leſs than five Indictments layed againſt him, and hadonce broke Goale, the chief of his Indictments were for Robbing one Mr. <hi>Adkin<g ref="char:EOLhyphen"/>ſon,</hi> of 3 or four pounds near <hi>Stains,</hi> and the Miniſter of <hi>Egham,</hi> of his Watch and 5 or 6 Shillings in monies, with ſeveral other Goods of a conſidetable vallue, all of them being plain and po<g ref="char:EOLhyphen"/>ſitive, beſides ſome twenty more that he had robbed were there to ſweare againſt him if he eſcaped the other, whereupon he recei<g ref="char:EOLhyphen"/>ved Sentance, and was this day Executed.</p>
+            <pb facs="tcp:29955:3"/>
+            <!-- PDF PAGE 15 -->
+            <p>The next was <hi>John Selby,</hi> who being apprehended and committed upon ſuſpicion to <hi>Salisbury</hi> Goal, was there Challenged for Robbing one <hi>Chriſtopher Hunt,</hi> of 7 pounds of womens Hair and a Portmantel vallued at forty Pounds, upon <hi>Bagſhot-Heath,</hi> on the 12th of <hi>September</hi> laſt, as likewiſe one Mr. <hi>Pepit</hi> of four ſhillings, and ſeveral Goods to a conſiderable Vallue, ſo that being turned over to take his Trial at this Aſ<g ref="char:EOLhyphen"/>ſizes, he had no leſs than five ſeveral Indictments againſt him, the Parties Robbed, ſwore poſitively, and his Ezcuſes ſlight and Frivilous the Court proceeded to Judgment and received Sentance accordingly. At the place aſ Execution he exhhrted all to be forewarned by his diſmal End; ſo continuing, until the Harbinger of Death ſealed up the Portals of his Voice, and wafted them into a vaſt Eternity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
